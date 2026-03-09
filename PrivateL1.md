@@ -1,4 +1,4 @@
-# Private L1: Privacy as a First-Class Citizen in Ethereum’s Long-Term Roadmap
+# Private L1: Privacy as a First-Class Citizen in the Strawmap
 
 ## 1. Introduction
 
