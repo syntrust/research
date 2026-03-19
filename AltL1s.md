@@ -4,24 +4,22 @@
 Tempo 是由 Stripe 和 Paradigm 推动的、以稳定币作为 gas 的支付优先型区块链，基于 Reth 技术栈。
 
 * Mainnet 已正式上线（2026.3.18）
-* 发布 Machine Payments Protocol（MPP），定义 agent payments 标准，允许代理自主支付服务费用。
+* 发布 Machine Payments Protocol（[MPP](https://mpp.dev/)），定义 agent payments 标准，允许代理自主支付服务费用。
 * 引入 session-based payments（类似 OAuth for money），支持授权范围内自动支付
 * 支持 micropayment aggregation（小额支付批量结算）
 * 上线 payments directory（100+ 服务），形成初步支付网络
 * 披露与 OpenAI、Anthropic、Visa、Mastercard、Shopify 等合作推进
 
-https://mpp.dev/
 ---
 
 # Base
 
 Base 是 Coinbase 推动的、以用户分发为核心的以太坊 L2 消费者平台。
 
-* 生态应用持续增长（社交、meme、轻量应用），应用层扩张快于基础设施
-* TVL in DeFi: $4.2 b (2026.3.19)
- [930 万月活跃交易用户. 占 L2 总收入的 62%。](https://sherlock.xyz/post/best-blockchain-to-build-on-in-2026#:~:text=Base%20is%20where%20consumer%2Dfacing,than%20Base's%20single%2Dround%2[...]
-* [推出 unified stack](https://blog.base.dev/next-chapter-for-base-chain-1): 整合所有依赖项和未来创新代码.(2026.2.18)
-* 与 Optimism Superchain 的治理机制脱钩，并拥有自己的升级路径.(2026.3.4)
+* TVL in DeFi: $4.2b (2026.3.19)
+* 2026 年初，Base 的每日交易量突破 1500 万笔，生态应用持续增长: Aerodrome Finance, Morpho，etc.
+* 推出 [unified stack](https://github.com/base/base): 整合所有依赖项和未来创新代码.(2026.2.18)
+* 与 Optimism Superchain 的治理机制脱钩，并拥有[自己的升级路径](https://blog.base.dev/next-chapter-for-base-chain-1).(2026.3.4)
   - Base V1 (upcoming hardfork) Fusaka
   - Base V2 (future hardfork) BAL
 
