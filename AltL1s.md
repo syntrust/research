@@ -3,12 +3,11 @@
 
 Tempo 是由 Stripe 和 Paradigm 推动的、以稳定币作为 gas 的支付优先型区块链，基于 Reth 技术栈。
 
+* 针对实际支付的稳定币标准 TIP-20: 支持转账备忘录、合规控制和奖励分配
 * Mainnet 已正式上线（2026.3.18）
 * 发布 Machine Payments Protocol（[MPP](https://mpp.dev/)），定义 agent payments 标准，允许代理自主支付服务费用。
 * 引入 session-based payments（类似 OAuth for money），支持授权范围内自动支付
 * 支持 micropayment aggregation（小额支付批量结算）
-* 上线 payments directory（100+ 服务），形成初步支付网络
-* 披露与 OpenAI、Anthropic、Visa、Mastercard、Shopify 等合作推进
 
 ---
 
