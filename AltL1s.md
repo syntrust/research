@@ -58,12 +58,5 @@ Conflux 中国唯一合规公链，正在成为以中国及亚洲市场为核心
 * 持续推进 Conflux 3.0 （自2025.8）
   - 15,000 TPS with Tree-Graph consensus protocol
   - AI Agent Integration
-
-# 🧠 总体结论（基于最近3个月真实信号）
-
-```text
-Tempo → 已进入真实运行（最强 signal）
-Base → 用户增长最强（分发优势）
-Monad → 技术推进但未验证（高风险高收益）
-IoTeX → 叙事转型 + 安全事件（不确定）
-Conflux → 政策驱动（非技术主导）
+ 
+---
