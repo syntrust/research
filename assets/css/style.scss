@@ -5,10 +5,20 @@
   display: block;
   overflow-x: auto;
   white-space: nowrap;
-  min-width: 200%;
 }
 
 .container-lg,
 .markdown-body {
   max-width: 98% !important;
+  width: 98% !important;
+  padding-inline: 1% !important;
+}
+
+.page-header {
+  padding: 1rem !important;
+}
+
+.main-content {
+  max-width: 98% !important;
+  padding: 1rem 1% !important;
 }
