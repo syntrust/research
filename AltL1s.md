@@ -60,3 +60,12 @@ Conflux 中国唯一合规公链，正在成为以中国及亚洲市场为核心
   - AI Agent Integration
  
 ---
+
+## MegaETH
+
+MegaETH 主打“Real-Time Blockchain”（亚毫秒延迟、目标10万+ TPS）的 Ethereum L2.
+
+* 2026年2月9日：主网启动，支持 gasless onboarding（通过 Infinex 实现首次交易免 gas ）
+* TGE 不随主网同步推出，而是依赖协议里程碑。关键 KPI 包括：TVL 和 USDM 稳定币供应增长、L2 去中心化进度、性能提升（带宽↑ + 延迟↓）、Ethereum 去中心化贡献等。
+* Polymarket 预测：社区热议 TGE 时间，新账户下注4万美元赌“6月30日前推出 Token”（当前 Yes 概率约74%）。
+* Rabbithole（官方生态前端）、USDM（MegaETH 由 Ethena 支持的原生稳定币，CAP $61.95m）、Kumbaya （DEX，TVL $70.5m）、AAVE（TVL $18.73m），GMX 永续
