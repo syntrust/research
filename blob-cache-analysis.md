@@ -160,7 +160,7 @@ finalized_delay = 64 × 12s = 12m48s   if pos = 0
 >The first block in each epoch is a checkpoint. Validators vote for pairs of checkpoints that it considers to be valid. If a pair of checkpoints attracts votes representing at least two-thirds of the total staked ETH, the checkpoints are upgraded. The more recent of the two (target) becomes "justified". The earlier of the two is already justified because it was the "target" in the previous epoch. Now it is upgraded to "finalized". 
 - [Source](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/fork-choice/#finality)
 
-![Finalized delay formula chart](./_attachments/finalized_delay_formula.png)
+![Finalized delay formula chart](_attachments/finalized_delay_formula.png)
 
 Ethereum Casper FFG 规则：epoch N 在 epoch N+2 结束时被 finalize。设 block 的 slot 为 S：
 
@@ -188,7 +188,7 @@ finalized_delay = 64 × 12s = 12m48s   if pos = 0
 
 ## Chart
 
-![Blob cache time analysis chart](./_attachments/blob_combined.png)
+![Blob cache time analysis chart](_attachments/blob_combined.png)
 
 Two line charts:
 - **Top:** Cache time (seconds) vs. download timestamp — shows sudden jump ~2026-04-22 19:48
